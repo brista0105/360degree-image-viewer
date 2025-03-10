@@ -1,1 +1,1 @@
-streamlit-pannelum
+streamlit_pannellum
