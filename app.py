@@ -9,7 +9,7 @@ streamlit_pannellum(
         "first": {
           "title": "My first example",
           "type": "equirectangular",
-          "panorama": "https://pannellum.org/images/alma.jpg",
+          "panorama": "https://cloudflare1.360gigapixels.com/pano/marytravelerp/01996288_360FQ66.jpg/equirect_crop_3_1/6.jpg",
           "autoLoad": True,
           "author": "Me",
           "hotSpots": [
